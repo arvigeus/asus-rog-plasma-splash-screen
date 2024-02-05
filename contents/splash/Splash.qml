@@ -37,7 +37,7 @@ Rectangle {
 
             anchors.centerIn: parent
 
-            source: "images/logo.png"
+            source: "images/logo.svg"
 
             sourceSize.width: size
             sourceSize.height: size
